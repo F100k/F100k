@@ -65,7 +65,6 @@ I am a 4th year Computer Engineering student at King Mongkut's University of Tec
 <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
 </div>
 
----
 
 ## 📫 Let's Connect
 
@@ -74,8 +73,4 @@ I am a 4th year Computer Engineering student at King Mongkut's University of Tec
 <a href="https://www.linkedin.com/in/jatuporn-pooljaroen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F100k&show_icons=true&theme=radical" alt="F100k's GitHub Stats" />
-</div>
----
+
