@@ -4,7 +4,7 @@
 
 # 🚀 About Me
 
-I am a 3rd-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), passionate about applying AI to solve real-world problems. With hands-on experience spanning predictive modeling, distributed training, and business automation, I thrive in collaborative environments and competitive hackathons.
+I am a 4th year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), passionate about applying AI to solve real-world problems. With hands-on experience spanning predictive modeling, distributed training, and business automation, I thrive in collaborative environments and competitive hackathons.
 
 *   🎓 Studying B.Eng. in Computer Engineering (Expected May 2027)
 *   💡 Actively building agentic workflows, fine-tuning LLMs, and optimizing high-performance computing resources.
@@ -20,14 +20,15 @@ I am a 3rd-year Computer Engineering student at King Mongkut's University of Tec
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
-  
 ### Programming Languages
+<div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
 
 ### Machine Learning & AI
+<div align="center">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -40,16 +41,20 @@ I am a 3rd-year Computer Engineering student at King Mongkut's University of Tec
 <img src="https://img.shields.io/badge/LightGBM-ff69b4?style=for-the-badge&logoColor=white" alt="LightGBM" />
 <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=white" alt="XGBoost" />
 <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+</div>
+
 ### Automation & Tools
+<div align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
 <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
 <img src="https://img.shields.io/badge/Slurm-1A2B3C?style=for-the-badge&logoColor=white" alt="Slurm" />
+</div>
 
 ### Hardware & Embedded
+<div align="center">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 <img src="https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="ATmega328P" />
-
 </div>
 
 ---
