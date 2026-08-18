@@ -12,6 +12,15 @@ I am a 4th year Computer Engineering student at King Mongkut's University of Tec
 
 ---
 
+## 🛤️ My Journey
+
+```mermaid
+graph LR
+    A["💻 Software Dev<br/>SCB Techhub"] --> B["⚡ HPC Specialist<br/>NSTDA ThaiSC"] --> C["🤖 AI Engineer<br/>Siam GS Battery"]
+```
+
+---
+
 ## 💼 Experience
 
 *   **AI Engineer** @ **Siam GS Battery** 🔋 (Jul 2026 - Present)
