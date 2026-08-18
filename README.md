@@ -14,10 +14,13 @@ I am a 4th year Computer Engineering student at King Mongkut's University of Tec
 
 ## 🛤️ My Journey
 
-```mermaid
-graph LR
-    A["💻 Software Dev<br/>SCB Techhub"] --> B["⚡ HPC Specialist<br/>NSTDA ThaiSC"] --> C["🤖 AI Engineer<br/>Siam GS Battery"]
-```
+<div align="center">
+<img src="https://img.shields.io/badge/💻_Software_Dev-1a7f37?style=for-the-badge" alt="Software Dev" />
+<img src="https://img.shields.io/badge/➜-555555?style=for-the-badge" alt="to" />
+<img src="https://img.shields.io/badge/⚡_HPC_Specialist-1a7f37?style=for-the-badge" alt="HPC Specialist" />
+<img src="https://img.shields.io/badge/➜-555555?style=for-the-badge" alt="to" />
+<img src="https://img.shields.io/badge/🤖_AI_Engineer-1a7f37?style=for-the-badge" alt="AI Engineer" />
+</div>
 
 ---
 
