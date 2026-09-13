@@ -2,30 +2,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Hey..+I'm+Jatuporn+(F100k);This+is..;..my+Github..;" alt="Typing SVG"/>
 </div>
 
-# 🚀 About Me
+# About Me
 
-I am a 4th year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), passionate about applying AI to solve real-world problems. With hands-on experience spanning predictive modeling, distributed training, and business automation, I thrive in collaborative environments and competitive hackathons.
-
-*   🎓 Studying B.Eng. in Computer Engineering (Expected May 2027)
-*   💡 Actively building agentic workflows, fine-tuning LLMs, and optimizing high-performance computing resources.
-*   🏆 A proud participant in the **Super AI Engineer SS5** track, having competed in 10+ hackathons.
+*   Studying B.Eng. in Computer Engineering (Expected May 2027)
+*   Actively building agentic workflows, fine-tuning LLMs, and optimizing high-performance computing resources.
+*   A proud participant in the **Super AI Engineer SS5** track, having competed in 10+ hackathons.
 
 ---
 
-## 🛤️ My Journey
+## My Journey
 
 <div align="center">
 
-| 💻 **Software Dev**<br>SCB Techhub | ➜ | ⚡ **HPC Specialist**<br>NSTDA ThaiSC | ➜ | 🤖 **AI Engineer**<br>Siam GS Battery |
+| **Software Dev**<br>SCB Techhub | ➜ | **HPC Specialist**<br>NSTDA ThaiSC | ➜ | **AI Engineer**<br>Siam GS Battery |
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## 💼 Experience
+## Experience
 
-*   **AI Engineer** @ **Siam GS Battery** 🔋 (Jul 2026 - Present)
+*   **AI Engineer** @ **Siam GS Battery** 🔋 (Jul 2026 - Aug 2026)
     *   Driving AI initiatives within the organization.
 *   **High Performance Computing (HPC) AI Specialist Intern** @ **NSTDA [ThaiSC]** (Jul 2025 - Sep 2025)
     *   Conducted user behavior analysis to understand and optimize HPC resource usage.
@@ -77,7 +75,7 @@ I am a 4th year Computer Engineering student at King Mongkut's University of Tec
 </div>
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 <a href="mailto:jatuporn31885@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
